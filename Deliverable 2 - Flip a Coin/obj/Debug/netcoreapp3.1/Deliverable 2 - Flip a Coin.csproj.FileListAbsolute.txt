@@ -1,0 +1,13 @@
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\bin\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.exe
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\bin\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.deps.json
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\bin\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.runtimeconfig.json
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\bin\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.runtimeconfig.dev.json
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\bin\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.dll
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\bin\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.pdb
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.csprojAssemblyReference.cache
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.AssemblyInfoInputs.cache
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.AssemblyInfo.cs
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.csproj.CoreCompileInputs.cache
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.dll
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.pdb
+C:\Users\verke\source\repos\Deliverable 2 - Flip a Coin\Deliverable 2 - Flip a Coin\obj\Debug\netcoreapp3.1\Deliverable 2 - Flip a Coin.genruntimeconfig.cache
